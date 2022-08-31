@@ -33,6 +33,15 @@ Take note of the various variables and their data types. Write a brief summary i
 
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
+```
+Variable people is an int you can assign any interger as the value such as 1 or 2
+Variable ticketPrice is a float which uses decimal values such as 14.0f
+Variable itemPrice is a double and also uses decimal values such as 9.55
+Variable trueOrFalse is a boolean and can be defined as true, or false
+
+int people = 16.5; line cannot be as the int data type cannot have decimals
+boolean trueOrFalse = 5; cannot be used as a boolean cannot be an interger
+```
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
