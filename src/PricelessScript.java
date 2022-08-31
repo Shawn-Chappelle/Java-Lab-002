@@ -2,6 +2,7 @@ import java.text.NumberFormat;
 
 public class PricelessScript {
     /**
+     * Shawn Chappelle 8/31/2022
      * Proof that MasterCard marketing is in your DNA
      * @param args Command line arguments [The source file path, The target file path, ...]
      **/
